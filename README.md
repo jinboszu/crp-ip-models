@@ -14,3 +14,11 @@ References:
 - Tang, L., Jiang, W., Liu, J., & Dong, Y. (2015). Research into container reshuffling and stacking problems in container terminal yards. [*IIE Transactions*](https://doi.org/10.1080/0740817x.2014.971201), 47(7), 751–766.
 - Wan, Y.-w., Liu, J., & Tsai, P.-C. (2009). The assignment of storage locations to containers for a container stack. [*Naval Research Logistics (NRL)*](https://doi.org/10.1002/nav.20373), 56(8), 699–713.
 - Zehendner, E., Caserta, M., Feillet, D., Schwarze, S., & Voß, S. (2015). An improved mathematical formulation for the blocks relocation problem. [*European Journal of Operational Research*](https://doi.org/10.1016/j.ejor.2015.03.032), 245(2), 415–422.
+
+Help wanted!
+---
+
+Models to be implemented:
+
+- Liu, S., Liu, S., Lu, C., Zhou, M., & Abusorrah, A. (in press). Valid inequality and variable fixation for unrestricted block relocation problems. [*IEEE Transactions on Intelligent Transportation Systems*](https://doi.org/10.1109/TITS.2022.3151069).
+- Liu, S., Liu, S., & Lu, C. (in press). An integer programming formulation and iterative scheme algorithm for the block relocation problem. [*Journal of Control and Decision*](https://doi.org/10.1080/23307706.2022.2071775).
