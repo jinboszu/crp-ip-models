@@ -20,5 +20,5 @@ Help wanted!
 
 Models to be implemented:
 
-- Liu, S., Liu, S., Lu, C., Zhou, M., & Abusorrah, A. (in press). Valid inequality and variable fixation for unrestricted block relocation problems. [*IEEE Transactions on Intelligent Transportation Systems*](https://doi.org/10.1109/TITS.2022.3151069).
-- Liu, S., Liu, S., & Lu, C. (in press). An integer programming formulation and iterative scheme algorithm for the block relocation problem. [*Journal of Control and Decision*](https://doi.org/10.1080/23307706.2022.2071775).
+- Liu, S., Liu, S., Lu, C., Zhou, M., & Abusorrah, A. (2022). Valid inequality and variable fixation for unrestricted block relocation problems. [*IEEE Transactions on Intelligent Transportation Systems*](https://doi.org/10.1109/TITS.2022.3151069), 23(10), 18822–18834.
+- Liu, S., Liu, S., & Lu, C. (2023). An integer programming formulation and iterative scheme algorithm for the block relocation problem. [*Journal of Control and Decision*](https://doi.org/10.1080/23307706.2022.2071775), 10(3), 338–347.
