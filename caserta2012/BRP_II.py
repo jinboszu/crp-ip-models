@@ -119,6 +119,7 @@ def test2():
         for t in irange(1, brp_ii.N):
             print('t = {}'.format(t))
             print(bays[t])
+    brp_ii.model.end()
 
     brp_ii = BRP_II(bay, bug2_fixed=False)
     if brp_ii.model.solve():
@@ -129,9 +130,9 @@ def test2():
         for t in irange(1, brp_ii.N):
             print('t = {}'.format(t))
             print(bays[t])
+    brp_ii.model.end()
 
 
 if __name__ == '__main__':
     test1()
-    print()
     test2()

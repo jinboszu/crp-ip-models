@@ -102,6 +102,7 @@ def test():
         for s in irange(1, mrip.S):
             print('s = {}'.format(s))
             print(bays[s])
+    mrip.model.end()
 
     mrip = MRIP(bay, False)
     if mrip.model.solve():
@@ -112,6 +113,7 @@ def test():
         for s in irange(1, mrip.S):
             print('s = {}'.format(s))
             print(bays[s])
+    mrip.model.end()
 
 
 if __name__ == '__main__':

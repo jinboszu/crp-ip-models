@@ -96,6 +96,7 @@ def test():
         for n in irange(1, crp_i.N):
             print('n = {}'.format(n))
             print(bays[n])
+    crp_i.model.end()
 
 
 if __name__ == '__main__':

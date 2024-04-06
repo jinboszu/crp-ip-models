@@ -84,6 +84,7 @@ def test():
         for t in irange(1, brp_i.T):
             print('t = {}'.format(t))
             print(bays[t])
+    brp_i.model.end()
 
 
 if __name__ == '__main__':

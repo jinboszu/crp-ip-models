@@ -126,6 +126,7 @@ def test():
         for t in irange(1, brp2c.N):
             print('t = {}'.format(t))
             print(bays[t])
+    brp2c.model.end()
 
 
 if __name__ == '__main__':

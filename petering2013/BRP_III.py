@@ -165,6 +165,7 @@ def test():
         for t in irange(1, brp_iii.W + 1):
             print('t = {}'.format(t))
             print(bays[t])
+    brp_iii.model.end()
 
 
 if __name__ == '__main__':

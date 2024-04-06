@@ -89,6 +89,7 @@ def test():
         for t in irange(1, brp_ii_x.N):
             print('t = {}'.format(t))
             print(bays[t])
+    brp_ii_x.model.end()
 
     brp_ii_x = BRP_II_X(bay, bug_fixed=False)
     if brp_ii_x.model.solve():
@@ -99,6 +100,7 @@ def test():
         for t in irange(1, brp_ii_x.N):
             print('t = {}'.format(t))
             print(bays[t])
+    brp_ii_x.model.end()
 
 
 if __name__ == '__main__':

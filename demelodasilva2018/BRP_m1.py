@@ -120,6 +120,7 @@ def test1():
         for t in irange(0, brp_m1.T):
             print('t = {}'.format(t))
             print(bays[t])
+    brp_m1.model.end()
 
 
 def test2():
@@ -136,10 +137,9 @@ def test2():
         for t in irange(0, brp_m1.T):
             print('t = {}'.format(t))
             print(bays[t])
+    brp_m1.model.end()
 
 
 if __name__ == '__main__':
     test1()
-    print()
-    print()
     test2()

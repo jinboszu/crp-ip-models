@@ -149,6 +149,7 @@ def test():
             print(before[t])
             print('t = {} (after retrievals)'.format(t))
             print(after[t])
+    brp_m2.model.end()
 
 
 if __name__ == '__main__':
